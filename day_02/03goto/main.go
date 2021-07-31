@@ -8,6 +8,7 @@ func main() {
 		for j := 'a'; j < 'z'; j++ {
 			if j == 'f' {
 				break
+
 				flag = true
 
 			}
